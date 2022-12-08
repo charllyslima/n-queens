@@ -1,0 +1,24 @@
+{
+  "name": "n-queens",
+  "version": "1.0.0",
+  "description": "game n queens",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass src/assets/scss/main.scss src/assets/css/main.css",
+    "watch": "sass --watch src/assets/scss/main.scss src/assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charllyslima/n-queens.git"
+  },
+  "keywords": [
+    "\"n",
+    "queens\""
+  ],
+  "author": "Charllys de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charllyslima/n-queens/issues"
+  },
+  "homepage": "https://github.com/charllyslima/n-queens#readme"
+}
